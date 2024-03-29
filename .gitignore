@@ -10,4 +10,3 @@ devtools/*
 !devtools/README.md
 sdk/*
 !sdk/README.md
-setup/
