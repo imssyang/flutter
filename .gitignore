@@ -8,5 +8,3 @@ dart-tool/*
 !dart-tool/README.md
 devtools/*
 !devtools/README.md
-sdk/*
-!sdk/README.md
