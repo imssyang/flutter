@@ -1,4 +1,4 @@
-cache/
+cache/*
 !cache/README.md
 dart/*
 !dart/README.md
